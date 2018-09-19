@@ -1,0 +1,39 @@
+class: "GraphGameTreeTest"
+alg: "AlphaBetaAgent"
+depth: "1"
+
+diagram: """
+            /-----a------\
+           /              \
+          b1              b2
+         /  \            /  \
+        A    B          C    D
+        2    4          2    6
+                        
+
+a - max
+b - min
+
+If you fail this test, but not any of the others, you probably have an error when comparing alpha or beta with the current value. Remember that it is v <= alpha and v >= beta, not v < alpha or v > beta. 
+"""
+num_agents: "2"
+
+start_state: "a"
+win_states: "A B C D"
+lose_states: ""
+
+successors: """
+a Left b1
+a Right b2
+b1 Left A
+b1 Right B
+b2 Left C
+b2 Right D
+"""
+
+evaluation: """
+A 2
+B 4
+C 2
+D 6
+"""
