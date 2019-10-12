@@ -9,5 +9,5 @@ Try it yourself, it's super fun to watch how good pacman has become!!
 ![Alt Text](https://media.giphy.com/media/42xJd9iZp5mn89JU8s/giphy.gif)
 
 <h4> python pacman.py -l ultimateClassic -p UltimateAgent -g DirectionalGhost -s 1 -q -n 10 </h4>
-This is the command line to run 10 games and get an average score. 2488 is around the current record. I get a score of 2292.6;
+This is the command line to run 10 games and get an average score. 2488 is around the current record . I get a score of 2292.6;
 
