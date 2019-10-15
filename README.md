@@ -4,7 +4,7 @@ Now it is time for Pacman to show off how good he has become. Pacman will face o
 
 I implemented Minimax search with alpha-beta pruning, using an optimized heuristic function. 
 <h4> python pacman.py -l ultimateClassic -p UltimateAgent -g DirectionalGhost -s 1 -n 10 </h4>
-Try it yourself, it's super fun to watch how good pacman has become!!
+Try it yourself, it's super fun to watch how good pacman has become!!!
 
 ![Alt Text](https://media.giphy.com/media/42xJd9iZp5mn89JU8s/giphy.gif)
 
