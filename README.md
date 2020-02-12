@@ -1,4 +1,4 @@
-# TheUltimatePacman
+# The Ultimate Pacman
 
 Now it is time for Pacman to show off how good he has become. Pacman will face off against more intelligent opponents in a trickier maze. In particular, the ghosts will actively chase Pacman instead of wandering around randomly, and the maze features more twists and dead-ends, but also extra pellets to give Pacman a fighting chance.
 
